@@ -15,10 +15,10 @@ module.exports = function(karma) {
     // list of files / patterns to load in the browser
     files: [
     // libraries
-    'static/js/lib/angular.min.js',
+	'static/js/lib/angular.min.js',
     'static/js/lib/*.js',
 
-    // our app
+    // our app    
     'static/js/*.js',
 
     // tests
